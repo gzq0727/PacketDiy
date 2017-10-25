@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PyStack
 =======
 
@@ -39,3 +40,7 @@ Pystack is currently relying on various libraries:
 * netfilter (must) (Will be removed soon for a hand made netfilter module)
 * twisted (must) To make pystack work with reactor
 * nfqueue (may) To use nfqueue functionalities
+=======
+# PacketDiy
+This is a full stack network packet decorator in user space
+>>>>>>> 1edcbcbcb00fa3445a377bbb9d4ee8fce405adc5
